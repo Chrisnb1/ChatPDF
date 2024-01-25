@@ -26,4 +26,5 @@ streamlit run app.py
 * Emebdding: paraphrase-multilingual-MiniLM-L12-v2
 * Framework: LangChain
 
+## Web Demo ([link](https://chatpdf-cnb.streamlit.app))
 ![image](https://github.com/Chrisnb1/ChatPDF/assets/63667971/727ee9ae-b45f-4724-834a-6dc7d4181f01)
